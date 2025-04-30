@@ -1,10 +1,7 @@
 import { useEffect } from "react";
 import userImg from "../assets/userImg.png";
 import cameraIconImg from "../assets/cameraIconImg.png";
-import React# If this is a new repository
-git branch -M main
-git push -u origin main
- from "react";
+import React from "react";
 function Home() {
   useEffect(function () {
     window.scrollTo(0, 0);
